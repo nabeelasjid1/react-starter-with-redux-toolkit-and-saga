@@ -161,7 +161,7 @@ const NavBar = ({ onMobileClose, openMobile }) => {
       <Box
         p={2}
         m={2}
-        bgcolor="background.dark"
+        bgcolor="background.red"
       >
         {/* <Typography
           align="center"
